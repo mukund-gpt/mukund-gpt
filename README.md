@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukund-gpt&label=Profile%20views&color=0e75b6&style=flat" alt="mukund-gpt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukund-gpt" alt="mukund-gpt" /></a> </p>
+<p align="left">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mukund-gpt" alt="mukund-gpt" /></a> </p>
 
 - 🔭 I’m currently working on [Chatting Application](https://github.com/mukund-gpt/MicroChat)
 
