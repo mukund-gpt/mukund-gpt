@@ -57,5 +57,3 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mukund-gpt&theme=tokyo-night"/>
 
 
-
-![snake gif](https://github.com/mukund-gpt/mukund-gpt/blob/output/github-contribution-grid-snake.gif)
