@@ -8,11 +8,6 @@
     <a href="[https://github.com/ryo-ma/github-profile-troph](https://github.com/mukund-gpt)">
   <img src="https://github-profile-trophy.vercel.app/?username=mukund-gpt" alt="mukund-gpt" /></a> </p>
 
-- 🔭 I’m currently working on [Chatting Application](https://github.com/mukund-gpt/MicroChat)
-
-- 🌱 I’m currently learning **Kotlin and MERN Stack**
-
-- 👯 I’m looking to collaborate on [Chatting Application](https://github.com/mukund-gpt/MicroChat)
 
 - 📫 How to reach me **abhishek.jupyter@gmail.com**
 
