@@ -27,6 +27,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-gpt&theme=2077" height="180em" />
 </div>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mukund-gpt&limit=5&theme=aura&combine_all_yearly_contributions=true)
+</div>
+  <h3>🏆 Competitive Programming</h3>
+  <a href="https://codeforces.com/profile/mukund_gupta" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mukund_gupta" alt="Codeforces" height="250" />
+  </a>
+  <a href="https://leetcode.com/mukund_gupta" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mukund_gupta?ext=contest" alt="Leetcode" height="250" />
+  </a>
+</div>
