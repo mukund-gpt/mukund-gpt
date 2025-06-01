@@ -27,6 +27,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-gpt&theme=2077" height="180em" />
 </div>
 
+<!--
 </div>
   <h3>🏆 Competitive Programming</h3>
   <a href="https://codeforces.com/profile/mukund_gupta" target="_blank">
@@ -36,3 +37,4 @@
     <img src="https://leetcard.jacoblin.cool/mukund_gupta?ext=contest" alt="Leetcode" height="250" />
   </a>
 </div>
+-->
