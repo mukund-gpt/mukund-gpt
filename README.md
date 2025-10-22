@@ -27,7 +27,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-gpt&theme=2077" height="180em" />
 </div>
 
-<!--
+<img src="https://raw.githubusercontent.com/mukund-gpt/mukund-gpt/output/snake.svg" alt="Snake animation" />
+
 </div>
   <h3>🏆 Competitive Programming</h3>
   <a href="https://codeforces.com/profile/mukund_gupta" target="_blank">
@@ -37,4 +38,3 @@
     <img src="https://leetcard.jacoblin.cool/mukund_gupta?ext=contest" alt="Leetcode" height="250" />
   </a>
 </div>
--->
